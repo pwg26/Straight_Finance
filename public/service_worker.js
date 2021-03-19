@@ -1,10 +1,4 @@
-const FILES_TO_CACHE = [
-  "/",
-  "/index.html",
-  "/style.css",
-  "/index.js",
-  "/index.js",
-];
+const FILES_TO_CACHE = ["/", "/index.html", "/style.css", "/index.js"];
 
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
